@@ -1,0 +1,2 @@
+test_pug
+  h1.bold(@click='hi') Click me {{name}}
